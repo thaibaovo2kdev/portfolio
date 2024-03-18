@@ -13,7 +13,7 @@ const syne = Syne({
 export const metadata: Metadata = {
   title: "Vo Thai Bao — Frontend Engineer",
   description:
-    "Frontend Engineer , currently at EnglishWing.",
+    "Frontend Engineer , currently at eDIGITEK.",
   generator: "Next.js",
   applicationName: "Vo Thai Bao",
   keywords: [
